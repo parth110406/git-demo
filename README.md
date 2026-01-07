@@ -1,4 +1,5 @@
 # Parthgit-demo
 this is my first repo
 <br>
-Author - Parth.k.k
+Author - chi. Parth keshav khatale 
+
